@@ -24,4 +24,4 @@ deploy:
   edge: true
   app: devopslab-italo
   on:
-    all_branches: true
+      branch: main
